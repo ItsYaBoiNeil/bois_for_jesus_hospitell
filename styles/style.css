@@ -1,0 +1,24 @@
+
+.container{
+
+    background-color:#03a9d3;
+    padding: 34px;
+    margin:auto;
+    fill-opacity: 40%;
+    border-radius: 15px;
+    
+}
+
+
+.container{
+
+    color: rgb(255, 255, 255);
+}
+
+.lmslogo{
+    position: absolute;
+    top: -20px;
+    right: 650px;
+    width: 20%;
+    z-index: 1;
+}
